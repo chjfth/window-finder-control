@@ -7,7 +7,7 @@
 *.clw
 
 # VB6 Files
-*.scc
+
 *.vbw
 *.pdb
 *.log
